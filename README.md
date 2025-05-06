@@ -4,7 +4,7 @@
 
 Este proyecto en Google Colab realiza un análisis de datos de ventas, incluyendo la calificación promedio, el costo de envío promedio por tienda, y la facturación total por ciudad (tienda).
 
-## 📁 Archivo incluido
+##  Archivo incluido
 
 * `challenge_alura.ipynb`: notebook de Jupyter que contiene el análisis completo paso a paso.
 
