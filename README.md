@@ -1,5 +1,3 @@
-¡Claro! Aquí tienes un ejemplo de un `README.md` en español para que lo uses en tu repositorio de GitHub, basado en el análisis de facturación y los cálculos anteriores:
-
 ---
 
 # 📊 Análisis de Ventas y Facturación
