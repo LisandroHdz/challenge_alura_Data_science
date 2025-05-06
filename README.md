@@ -6,7 +6,7 @@ Este proyecto en Google Colab realiza un análisis de datos de ventas, incluyend
 
 ## 📚 Archivo incluido
 
-* `challenge_alura.ipynb`: notebook de Jupyter que contiene el análisis completo paso a paso.
+* ´challenge_alura.ipynb´: notebook de Jupyter que contiene el análisis completo paso a paso.
 
 ## 📌 Objetivos del análisis
 
